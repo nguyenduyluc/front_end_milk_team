@@ -1,0 +1,35 @@
+.headerStyle {
+    text-align: 'center';
+    color: '#fff';
+    height: 64;
+    padding-inline: 50;
+    line-height: '64px';
+    background-color:#FFFF99;
+    
+  };
+  
+  .contentStyle{
+    text-align: 'center';
+    min-height: 120;
+    line-height: '120px';
+    color: '#fff';
+    background-color: #108ee9;
+  };
+  .footerStyle{
+    text-align: 'center';
+    color: '#fff';
+    background-color: #ea7d98;
+  };
+
+  .slick-dots li button{
+    background-color: black !important;
+  }
+  .slick-dots li button:before{
+    background-color: black !important;
+  }
+
+  .Logo {
+max-width: 100%;
+height: auto;
+
+  }
